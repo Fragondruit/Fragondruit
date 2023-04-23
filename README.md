@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fragondruit
-- 👀 I’m interested in working full-time in Software Engineering (Full-stack, Backend, or Deep Learning).
-- 🌱 I’m currently learning Quantum Computing/Neural Networks/Virtualization Software.
+- 👀 Mostly occupied with professional develpoment, but I like creating free (let's say, useful) software.
+- 🌱 I’m currently learning (more) Computer Graphics.
 - 💞️ I’m looking to collaborate on Git and Google Colab!
 - 📫 How to reach me: shoot me an email at joshnigam99@gmail.com
 
